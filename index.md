@@ -4,4 +4,7 @@
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
 3. [Traitement des données](#traitement)
+
+## Introduction <a name="Introduction"></a>
+
    

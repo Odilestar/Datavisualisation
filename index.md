@@ -6,7 +6,7 @@
 3. [Traitement des données](#traitement)
 
 ## Introduction <a name="Introduction"></a>
-Pour faire une visualisation sur le thème de temps de parole des hommes et femmes dans les médias, il a fallu recueillir des open data sur différents sites. Après ollecte des données, j'ai décidé de réduire et de synthétiser mes données et de ne travailler que sur la plae qui m'interesse. J'ai donc réduit les données sur la période de 5 ans à savoir entre 2014 et 2019. 
+Pour faire une visualisation sur le thème de temps de parole des hommes et femmes dans les médias, il a fallu recueillir des open data sur différents sites. Après collecte des données, j'ai décidé de réduire et de synthétiser mes données et de ne travailler que sur la plae qui m'interesse. J'ai donc réduit les données sur la période de 5 ans à savoir entre 2014 et 2019. 
 
 
    

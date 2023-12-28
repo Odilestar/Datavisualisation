@@ -1,5 +1,5 @@
 # Temps de parole des hommes et femmes à la radio et la télé
-![Image de média](https://img.etimg.com/thumb/width-1600,height-900,imgsize-458873,resizemode-75,msid-70322833/industry/media/entertainment/media/tv-and-radio-companies-want-broadcast-policy-to-protect-media-freedom.jpg)
+![Image de média](https://img.etimg.com/thumb/width-1600,height-900,imgsize-458873,resizemode-75,msid-70322833/industry/media/entertainment/media/tv-and-radio-companies-want-broadcast-policy-to-protect-media-freedom.jpg) source:image google
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
@@ -19,6 +19,6 @@ Pour faire une visualisation sur le thème de temps de parole des hommes et femm
 Les temps de parole sont estimés par tranches d'une heure, de 5h à minuit pour la radio et de 10h à minuit pour la télévision.
 
 ## Choix et recueil du jeu de données
-![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
+![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)source:image google
 Les données
    

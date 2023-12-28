@@ -19,5 +19,6 @@ Pour faire une visualisation sur le thème de temps de parole des hommes et femm
 Les temps de parole sont estimés par tranches d'une heure, de 5h à minuit pour la radio et de 10h à minuit pour la télévision.
 
 ## Choix et recueil du jeu de données
+![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
 Les données
    

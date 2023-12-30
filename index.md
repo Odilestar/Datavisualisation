@@ -23,6 +23,6 @@ Les temps de parole sont estimés par tranches d'une heure, de 5h à minuit pour
 ![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
 source:image google
 
-Les données sont recueillies en open data sue le site data.gouv
->[Données sur temps de parole des hommes et des femmes à la radiio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
+Les données sont recueillies en open data sur le site data.gouv
+>[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
 

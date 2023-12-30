@@ -24,5 +24,6 @@ Les temps de parole sont estimés par tranches d'une heure, de 5h à minuit pour
 source:image google
 
 Les données sont recueillies en open data sue le site data.gouv
+>[Données sur temps de parole des hommes et des femmes à la radiio et à la télé](<div data-udata-dataset="5c6adbae634f4114a5c41776"></div><script data-udata="https://www.data.gouv.fr/" src="https://static.data.gouv.fr/static/oembed.js" async defer></script>)
 
 <iframe src="https://explore.data.gouv.fr/tableau/?url=https%3A%2F%2Fwww.data.gouv.fr%2Ffr%2Fdatasets%2Fr%2Fc5b54a7f-2eb2-4db4-a6c5-3b603a56bf29&year__less=2019&year__greater=2014" width="850" height="600" frameborder="0"></iframe>

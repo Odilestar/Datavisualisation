@@ -28,13 +28,13 @@ Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
 
 <iframe src="https://www.data.gouv.fr/" src="https://static.data.gouv.fr/static/oembed.js" width="750" height="600" frameborder="0" ></iframe>
-drxthykl
 
 
-<iframe src="20190308-years.csv"width="750" height="600" frameborder="0"></iframe>iframe>
+
+
 
 
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
 
-
+<iframe src="20190308-years.csv"width="750" height="600" frameborder="0"></iframe>iframe>
 

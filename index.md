@@ -7,7 +7,7 @@ source:image google
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
 3. [Traitement des données](#traitement)
 
-## Introduction <a name="Introduction"></a>
+## 1. Introduction <a name="Introduction"></a>
 J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.
 Pour faire une visualisation sur le thème de temps de parole des hommes et femmes dans les médias, il a fallu recueillir des open data sur différents sites. Après collecte des données, j'ai décidé de réduire et de synthétiser mes données et de ne travailler que sur la plage qui m'interesse. J'ai donc réduit les données sur une période de 5 ans à savoir entre 2015 et 2019. 
 
@@ -20,7 +20,7 @@ Pour faire une visualisation sur le thème de temps de parole des hommes et femm
 
 Les temps de parole sont estimés en heure.
 
-## Choix et recueil du jeu de données
+## 2. Choix et recueil du jeu de données
 ![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
 source:image google
 
@@ -63,10 +63,14 @@ J'ai choisi le jeu de données de temps de parole des hommes et femmes à la rad
 
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
-## Visualisation avec Flourish
+## 3. Visualisation avec Flourish
 
 Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit à la télé ou à la radio, les temps de parole des femmes est inférieur à celui des hommes. 
+
+## 4. Visualisation avec Datawrapper
+
+Pour cette visualisation, 

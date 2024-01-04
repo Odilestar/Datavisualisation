@@ -68,3 +68,5 @@ J'ai choisi le jeu de données de temps de parole des hommes et femmes à la rad
 Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit à la télé ou à la radio, les temps de parole des femmes est inférieur à celui des hommes. 

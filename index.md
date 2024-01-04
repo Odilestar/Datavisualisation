@@ -60,3 +60,5 @@ J'ai choisi le jeu de données de temps de parole des hommes et femmes à la rad
 | 2019  | BFM TV             |     1 749 685      |        910 678       |
 | 2019  | Canal+             |     1 628 037      |        478 149       |
 | 2019  | Canal+ Sport       |     2 507 609      |        135 782       |
+
+> Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)

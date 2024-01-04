@@ -18,7 +18,7 @@ Pour faire une visualisation sur le thème de temps de parole des hommes et femm
 **Les chaînes de radio analysées sont les suivantes:** Chérie FM, Europe 1, France Bleu, France Culture, France Info, France Inter, France Musique, Fun Radio, Mouv’, NRJ, Nostalgie, RFM, RMC, RTL, RTL 2, Radio Classique, Radio France Internationale, Rire et Chansons, Skyrock, Sud Radio et Virgin Radio.
 
 
-Les temps de parole sont estimés par tranches d'une heure, de 5h à minuit pour la radio et de 10h à minuit pour la télévision.
+Les temps de parole sont estimés en heure.
 
 ## Choix et recueil du jeu de données
 ![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
@@ -31,7 +31,7 @@ Les données sont recueillies en open data sur le site data.gouv
 
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
 
-* Voici un extrait du fichier analysé:
+### Voici un extrait du fichier analysé:
 
 | ANNEE | channel_name       |     male_duration  |     female_duration  |
 |-------|--------------------|--------------------|----------------------|

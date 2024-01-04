@@ -5,7 +5,7 @@ source:image google
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
-3. [Traitement des données](#traitement)
+3. [Visualiastion avec Flourish](#traitement)
 
 ## 1. Introduction <a name="Introduction"></a>
 J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.

@@ -31,7 +31,7 @@ Les données sont recueillies en open data sur le site data.gouv
 
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
 
-*Voici un extrait du fichier analysé:
+* Voici un extrait du fichier analysé:
 
 | ANNEE | channel_name       |     male_duration  |     female_duration  |
 |-------|--------------------|--------------------|----------------------|

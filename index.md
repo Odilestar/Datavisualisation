@@ -62,3 +62,8 @@ J'ai choisi le jeu de données de temps de parole des hommes et femmes à la rad
 | 2019  | Canal+ Sport       |     2 507 609      |        135 782       |
 
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
+
+## Visualisation avec Flourish
+
+Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne d etélé et de radio le temps de parole des hommes et des femmes. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

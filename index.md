@@ -74,5 +74,8 @@ Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit 
 ## 4. Visualisation avec Datawrapper
 
 Pour cette visualisation, 
-[https://datawrapper.dwcdn.net/q1kIy/1/](https://www.datawrapper.de/_/q1kIy/)https://www.datawrapper.de/_/q1kIy/
+
+### test
+<iframe title="Temps de parole des hommes et femmes à la télé et à la radio" aria-label="Barres regroupées" id="datawrapper-chart-q1kIy" src="https://datawrapper.dwcdn.net/q1kIy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="17074" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 

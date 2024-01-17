@@ -74,4 +74,5 @@ Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit 
 ## 4. Visualisation avec Datawrapper
 
 Pour cette visualisation, 
+[https://datawrapper.dwcdn.net/q1kIy/1/](https://www.datawrapper.de/_/q1kIy/)https://www.datawrapper.de/_/q1kIy/
 

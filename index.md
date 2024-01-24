@@ -71,6 +71,12 @@ Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour 
 
 Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit à la télé ou à la radio, les temps de parole des femmes est inférieur à celui des hommes. 
 
+
+### Deuxième visualisation flourish
+
+<div class="flourish-embed" data-src="story/2155588"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 ## 4. Visualisation avec Datawrapper
 
 Pour cette visualisation, j'ai décidé d'afficher la différence de temps de parole uniquement pour l'année 2019. L'objectif c'est de voir si  la radio ou  la télé ont une incidence sur le temps de paroles des hommes et des femmes. 

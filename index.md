@@ -85,6 +85,8 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps de pa
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-## 5. Visualisation avec uMap
+## 5. Troisième Visualisation 
 
 Pour cette visualisation, j'ai choisi d'afficher les villes dans lesquelles se trouvent les chaînes de télé. L'idée c'est de voir si la loclaisation des chaînes a une influence sur la décision de donner plus de temps de parole aux hommes ou des femmes. 
+### test
+<div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

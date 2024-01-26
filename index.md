@@ -72,10 +72,6 @@ Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour 
 Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit à la télé ou à la radio, les temps de parole des femmes est inférieur à celui des hommes. 
 
 
-### Deuxième visualisation flourish
-
-<div class="flourish-embed" data-src="story/2155588"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 
 ## 4. Visualisation avec Datawrapper
 

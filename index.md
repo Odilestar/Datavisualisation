@@ -67,6 +67,7 @@ J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix
 
 Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
 Voici le fichier de cette visualisation 
+[corpus première visualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_premiereVisualisation.csv)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

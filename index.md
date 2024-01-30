@@ -27,11 +27,11 @@ source:image google
 Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
 
-
-
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
+J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix millions de lignes. OpenRefine ne pouvait pa straiter les données. 
 
-### Voici un extrait du fichier analysé:
+
+### Voici un extrait du fichier traité:
 
 | ANNEE | channel_name       |     male_duration  |     female_duration  |
 |-------|--------------------|--------------------|----------------------|
@@ -66,6 +66,7 @@ J'ai choisi le jeu de données de temps de parole des hommes et femmes à la rad
 ## 3. Visualisation avec Flourish
 
 Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
+Voici le fichier de cette visualisation 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

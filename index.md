@@ -28,7 +28,7 @@ Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
 
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
-J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix millions de lignes. OpenRefine ne pouvait pa straiter les données. 
+J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix millions de lignes. OpenRefine ne pouvait pas traiter les données. 
 
 
 ### Voici un extrait du fichier traité:
@@ -77,8 +77,8 @@ Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit 
 
 ## 4. Visualisation avec Datawrapper
 
-Pour cette visualisation, j'ai décidé d'afficher la différence de temps de parole uniquement pour l'année 2019. L'objectif c'est de voir si  la radio ou  la télé ont une incidence sur le temps de paroles des hommes et des femmes. 
-
+Pour cette visualisation, j'ai décidé d'afficher la différence de temps total par radio et par télé des hommes et des femmes. 
+[deuxieme visualisation] (
 
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>

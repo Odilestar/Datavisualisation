@@ -86,5 +86,7 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 ## 5. Troisième Visualisation 
 
 Pour cette visualisation, j'ai choisi d'afficher les villes dans lesquelles se trouvent les chaînes de télé. L'idée c'est de voir si la loclaisation des chaînes a une influence sur la décision de donner plus de temps de parole aux hommes ou des femmes. 
+[troisieme visualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_tpsParole_geolocalisation.csv)
 ### test
+
 <div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

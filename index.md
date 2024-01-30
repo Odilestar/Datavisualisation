@@ -83,13 +83,16 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-## 5. Troisième Visualisation 
+## 5. ENrichissement du jeu de données 
 
-Pour cette visualisation, j'ai choisi d'afficher les villes dans lesquelles se trouvent les chaînes de télé. L'idée c'est de voir si la loclaisation des chaînes a une influence sur la décision de donner plus de temps de parole aux hommes ou des femmes. 
-[troisieme visualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_tpsParole_geolocalisation.csv)
+J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole.
+
 
 ### Visualisation par nombre de journalistes par chaine 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16634188"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 
 
 ### Visualisations ratées
 

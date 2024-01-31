@@ -29,6 +29,8 @@ Les temps de parole sont estimés en heure.
 
 Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
+>[Voici le fichier de départ](https://we.tl/t-K6lzQzZH5h)
+**Dans ce fichier se trouve les données de base et les traitements apportés. Chaque feuille constitue un traitement qui a permis à déduire les corpus de visualisation**
 
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
 J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix millions de lignes. OpenRefine ne pouvait pas traiter les données. J'ai utilisé la formule NB.SI.ENS pour sortir les années de 2015 à 2019. Ensuite j'ai fait une autre formule pour calculer le nombre total des heures par chaîne. Je précise que les temps sont estimés en heure et sont énoncé par jour, de 1975 à 2019. J'ai donc transformé les temps journaliers en mensuel puis en année. J'ai fait le traitement avec Excel au vu de la taille du corpus.

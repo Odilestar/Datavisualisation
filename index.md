@@ -99,7 +99,8 @@ Je me suis posé la question de savoir si le temps de parole des femmes est moin
 
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 
 
-### Visualisations ratées
+
+## 6. Visualisations ratées
 
 <div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

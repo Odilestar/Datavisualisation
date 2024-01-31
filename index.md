@@ -91,6 +91,8 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+Comme on s'attendait, le temps total des hommes est supérieur à celui des femmes que ce soit à la radio ou à la télé. Donc le temps des hommes est toujours supérieur à ceux des femmes sur 5 années, de 2015 à 2019.
+
 ## 5. Visualisation en fonction du nombre de journalistes par chaîne et par temps de parole des femmmes et des hommes
 
 ### visualisation par temps de parole pour 6 chaînes

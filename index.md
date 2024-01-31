@@ -1,7 +1,8 @@
 
 # Temps de parole des hommes et femmes à la radio et la télé
 ![Image de média](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwMt2RxvCxa_fnht8IMCoqw6djPew0bVXw6zkPo87S1wYioCSi3aN_iJhHDldL1A8FdE&usqp=CAU)
-[source](https://www.google.com/search?q=t%C3%A9l%C3%A9+news&tbm=isch&ved=2ahUKEwiK4Kmyp4eEAxUtVaQEHdc3BeAQ2-cCegQIABAA&oq=t%C3%A9l%C3%A9+news&gs_lcp=CgNpbWcQAzIGCAAQBRAeMgcIABCABBAYMgcIABCABBAYOgoIABCABBCKBRBDOgUIABCABDoGCAAQCBAeUABYmQpg3gxoAHAAeACAATqIAZcCkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=ExK6ZcoKraqR1Q_X75SADg&bih=559&biw=1280&client=firefox-b-d#imgrc=7w_M-V7XEqVuhM&imgdii=zAOKG19iAcsZsM)
+
+>[source](https://www.google.com/search?q=t%C3%A9l%C3%A9+news&tbm=isch&ved=2ahUKEwiK4Kmyp4eEAxUtVaQEHdc3BeAQ2-cCegQIABAA&oq=t%C3%A9l%C3%A9+news&gs_lcp=CgNpbWcQAzIGCAAQBRAeMgcIABCABBAYMgcIABCABBAYOgoIABCABBCKBRBDOgUIABCABDoGCAAQCBAeUABYmQpg3gxoAHAAeACAATqIAZcCkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=ExK6ZcoKraqR1Q_X75SADg&bih=559&biw=1280&client=firefox-b-d#imgrc=7w_M-V7XEqVuhM&imgdii=zAOKG19iAcsZsM)
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)

@@ -127,10 +127,12 @@ Après visualisation, on remarque l'effctif des femmes est plus élevé que celu
    - Ce projet a permis d'utiliser plusieurs outils de visualisation, de faire des erreurs et de reprendre même si ce n'est pas drôle tout le temps.
    - Utilisation de OpenRefine, de Flourish, de Datawrapper
    - Objectif personnel pour ce cours atteint
+    
 - Limites:
- - Corpus trop volumineux (les autres sujets ne m'interessaient pas et comme les étapes de ce projet consiste à traiter les données)
- - Traitement avec Excel car fichier trop volumineux pour les outils de traitement proposés en cours
- - Demande beaucoup de patience
+  
+  - Corpus trop volumineux (les autres sujets ne m'interessaient pas et comme les étapes de ce projet consiste à traiter les données)
+  - Traitement avec Excel car fichier trop volumineux pour les outils de traitement proposés en cours
+  - Demande beaucoup de patience
 ## 7. Bloopers
 
 <div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

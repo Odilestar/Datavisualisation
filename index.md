@@ -1,8 +1,6 @@
 
 # Temps de parole des hommes et femmes à la radio et la télé
-![Image de média](https://www.shutterstock.com/image-photo/microphone-radio-studio-260nw-554468578.jpg)
 
->[source](https://www.google.com/search?q=t%C3%A9l%C3%A9+news&tbm=isch&ved=2ahUKEwiK4Kmyp4eEAxUtVaQEHdc3BeAQ2-cCegQIABAA&oq=t%C3%A9l%C3%A9+news&gs_lcp=CgNpbWcQAzIGCAAQBRAeMgcIABCABBAYMgcIABCABBAYOgoIABCABBCKBRBDOgUIABCABDoGCAAQCBAeUABYmQpg3gxoAHAAeACAATqIAZcCkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=ExK6ZcoKraqR1Q_X75SADg&bih=559&biw=1280&client=firefox-b-d#imgrc=7w_M-V7XEqVuhM&imgdii=zAOKG19iAcsZsM)
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
@@ -25,8 +23,8 @@ Pour faire une visualisation sur le thème de temps de parole des hommes et femm
 Les temps de parole sont estimés en heure.
 
 ## 2. Choix et recueil du jeu de données
-![Image micro](https://as1.ftcdn.net/v2/jpg/02/46/96/42/1000_F_246964287_4KU1LT6wVzbymlCcRANMFNWdprZFagbV.jpg)
->[Source](https://www.google.com/search?q=studio+radio+mic+live&tbm=isch&ved=2ahUKEwi7qvLfqIeEAxW7TaQEHZ9GBxEQ2-cCegQIABAA&oq=studio+radio+mic+live&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQEzoICAAQCBAeEBM6BAgAEB46BggAEAgQHlC5D1iyF2CcGmgAcAB4AIABRIgB2AKSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=fhO6ZbvzPLubkdUPn42diAE&bih=559&biw=1280&client=firefox-b-d&hl=fr#imgrc=kowPY6hXcbdFDM)
+![image_micro](https://www.shutterstock.com/image-photo/microphone-radio-studio-260nw-554468578.jpg)
+>[Source](https://www.google.com/search?q=studio+radio+mic+live&tbm=isch&ved=2ahUKEwi7qvLfqIeEAxW7TaQEHZ9GBxEQ2-cCegQIABAA&oq=studio+radio+mic+live&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQEzoICAAQCBAeEBM6BAgAEB46BggAEAgQHlC5D1iyF2CcGmgAcAB4AIABRIgB2AKSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=fhO6ZbvzPLubkdUPn42diAE&bih=559&biw=1280&client=firefox-b-d&hl=fr#imgrc=2DgB8sl22J3JIM)
 
 Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)

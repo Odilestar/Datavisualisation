@@ -25,8 +25,8 @@ Pour faire une visualisation sur le thème de temps de parole des hommes et femm
 Les temps de parole sont estimés en heure.
 
 ## 2. Choix et recueil du jeu de données
-![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
-source:image google
+![Image micro](https://as1.ftcdn.net/v2/jpg/02/46/96/42/1000_F_246964287_4KU1LT6wVzbymlCcRANMFNWdprZFagbV.jpg)
+>[Source](https://www.google.com/search?q=studio+radio+mic+live&tbm=isch&ved=2ahUKEwi7qvLfqIeEAxW7TaQEHZ9GBxEQ2-cCegQIABAA&oq=studio+radio+mic+live&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQEzoICAAQCBAeEBM6BAgAEB46BggAEAgQHlC5D1iyF2CcGmgAcAB4AIABRIgB2AKSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=fhO6ZbvzPLubkdUPn42diAE&bih=559&biw=1280&client=firefox-b-d&hl=fr#imgrc=kowPY6hXcbdFDM)
 
 Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)

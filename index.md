@@ -8,6 +8,7 @@ source:image google
 3. [Temps de parole des hommes et des femmes par année et par chaîne](#premièreVisuallisation)
 4. [Temps de parole total des hommes et femmes à la radio et la télé par année](#deuxièmeVisulaisation)
 5. [Visualisation en fonction du nombre de journalistes par chaîne](#troisièmeVisualisation)
+6. [Bloopers](#visualisationsRates)
 
 ## 1. Introduction <a name="Introduction"></a>
 J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.
@@ -77,7 +78,7 @@ Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit 
 
 
 
-## 4. Visualisation avec Datawrapper
+## 4. Temps de parole total des hommes et femmes à la radio et la télé par année
 
 Pour cette visualisation, j'ai décidé d'afficher la différence de temps total par radio et par télé des hommes et des femmes. 
 [deuxieme visualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_TV_Radio.csv)
@@ -85,7 +86,7 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-## 5. Enrichissement du jeu de données 
+## 5. Visualisation en fonction du nombre de journalistes par chaîne 
 
 J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole.
 

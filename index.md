@@ -9,7 +9,8 @@
 3. [Temps de parole des hommes et des femmes par année et par chaîne](#premièreVisuallisation)
 4. [Temps de parole total des hommes et femmes à la radio et la télé par année](#deuxièmeVisulaisation)
 5. [Visualisation en fonction du nombre de journalistes par chaîne](#troisièmeVisualisation)
-6. [Bloopers](#visualisationsRates)
+6. [Conclusion](#conclusion)
+7. [Bloopers](#visualisationsRates)
 
 ## 1. Introduction <a name="Introduction"></a>
 J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.
@@ -119,8 +120,17 @@ J'ai ensuite modifié les Q correspondant à chaque chaîne.
 
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 
 
-
-## 6. Bloopers
+## 6. Conclusion
+- Bilan
+   - Sujet interessant qui a permis à un traitement et avoir une idée sur le sujet.
+   - Ce projet a permis d'utiliser plusieurs outils de visualisation, de faire des erreurs et de reprendre même si ce n'est pas drôle tout le temps.
+   - Utilisation de OpenRefine, de Flourish, de Datawrapper
+   - Objectif personnel pour ce cours atteint
+- Limites
+ - Corpus trop volumineux (les autres sujets ne m'interessaient pas et comme les étapes de ce projet consiste à traiter les données)
+ - Traitement avec Excel car fichier trop volumineux pour les outils de traitement proposés en cours
+ - Demande beaucoup de patience
+## 7. Bloopers
 
 <div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

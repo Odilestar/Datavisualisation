@@ -89,13 +89,21 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-## 5. Visualisation en fonction du nombre de journalistes par chaîne 
+## 5. Visualisation en fonction du nombre de journalistes par chaîne et par temps de parole des femmmes et des hommes
 
-J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole. 
-Je me suis posé la question de savoir si le temps de parole des femmes est moins que celui des hommes en fonction de l'effectif des journalistes par chaîne. 
->[troisiemeVisualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Journalistes_chaine.csv)
+### visualisation par temps de parole pour 6 chaînes
+>[troisièmeVisualisation](
+ 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16640160"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Visualisation par effectif masculin ou féminin par chaîne
+>[quatrièmeVisualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Journalistes_chaine.csv)
+
+J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole. 
+Je me suis posé la question de savoir si le temps de parole des femmes est moins que celui des hommes en fonction de l'effectif des journalistes par chaîne.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/16641215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 
 

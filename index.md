@@ -104,6 +104,17 @@ Pour avoir ce fichier, j'ai utilisé une requête wikidata pour avoir la liste d
 J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole. 
 Je me suis posé la question de savoir si le temps de parole des femmes est moins que celui des hommes en fonction de l'effectif des journalistes par chaîne.
 
+Voici le code wikidata utilisé
+# Liste des journalistes de la chaîne TF1
+```sparql
+SELECT ?journaliste ?journalisteLabel ?genreLabel
+WHERE {?journaliste wdt:P106 wd:Q1930187.
+       ?journaliste wdt:P108 wd:Q214683.
+       ?journaliste wdt:P21 ?genre.
+       SERVICE wikibase:label {bd:serviceParam wikibase:language"fr"}
+}
+```
+J'ai ensuite modifié les Q correspondant à chaque chaîne. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 

@@ -70,7 +70,7 @@ J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix
 
 Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
 Voici le fichier de cette visualisation 
-[corpus première visualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_premiereVisualisation.csv)
+>[corpus première visualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_premiereVisualisation.csv)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -81,26 +81,23 @@ Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit 
 ## 4. Temps de parole total des hommes et femmes à la radio et la télé par année
 
 Pour cette visualisation, j'ai décidé d'afficher la différence de temps total par radio et par télé des hommes et des femmes. 
-[deuxieme visualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_TV_Radio.csv)
+>[deuxieme visualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Corpus_TV_Radio.csv)
 
 <iframe title="Temps de parole par radio et par télé   " aria-label="Grouped Bars" id="datawrapper-chart-G8VSF" src="https://datawrapper.dwcdn.net/G8VSF/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="951" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 ## 5. Visualisation en fonction du nombre de journalistes par chaîne 
 
-J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole.
-
-
-### Visualisation par nombre de journalistes par chaine 
+J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole. 
 Je me suis posé la question de savoir si le temps de parole des femmes est moins que celui des hommes en fonction de l'effectif des journalistes par chaîne. 
-
+>[troisiemeVisualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Journalistes_chaine.csv)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16640160"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 
 
 
-## 6. Visualisations ratées
+## 6. Bloopers
 
 <div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

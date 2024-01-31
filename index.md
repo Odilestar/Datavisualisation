@@ -92,8 +92,8 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 ## 5. Visualisation en fonction du nombre de journalistes par chaîne et par temps de parole des femmmes et des hommes
 
 ### visualisation par temps de parole pour 6 chaînes
->[troisièmeVisualisation](
- 
+>[troisièmeVisualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/temps_six_chaines.csv) 
+ Pour cette visualisation l'objectif est de comparer le temps des hommes et des femmes en fonction de l'effectif par chaîne. C'est-à-dire que l'on veut savoir si le temps de parole des hommes est supérieur à celui des femmes pour une chaîne parce que l'effectif des hommes de cette chaîne est supérieur à celui des femmes. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16640160"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

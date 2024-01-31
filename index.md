@@ -5,7 +5,8 @@ source:image google
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
-3. [Visualisation avec Flourish](#traitement)
+3. [Temps de parole des hommes et des femmes par année et par chaîne](#traitement)
+4. [Temps de parole total par ]
 
 ## 1. Introduction <a name="Introduction"></a>
 J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.
@@ -63,7 +64,7 @@ J'ai donc traité ce jeu de données avec Excel puisque la taille dépassait dix
 
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
-## 3. Visualisation avec Flourish
+## 3. Temps de parole des hommes et des femmes par année et par chaîne
 
 Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
 Voici le fichier de cette visualisation 

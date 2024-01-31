@@ -5,8 +5,9 @@ source:image google
 # Sommaire 
 1. [Introduction](#introduction)
 2. [Choix et recueil du jeu de données](#jeuDeDonnées)
-3. [Temps de parole des hommes et des femmes par année et par chaîne](#traitement)
-4. [Temps de parole total par ]
+3. [Temps de parole des hommes et des femmes par année et par chaîne](#premièreVisuallisation)
+4. [Temps de parole total des hommes et femmes à la radio et la télé par année](#deuxièmeVisulaisation)
+5. [Visualisation en fonction du nombre de journalistes par chaîne](#troisièmeVisualisation)
 
 ## 1. Introduction <a name="Introduction"></a>
 J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.

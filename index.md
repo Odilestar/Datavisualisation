@@ -122,12 +122,12 @@ J'ai ensuite modifié les Q correspondant à chaque chaîne.
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes. 
 
 ## 6. Conclusion
-- Bilan
+- Bilan:
    - Sujet interessant qui a permis à un traitement et avoir une idée sur le sujet.
    - Ce projet a permis d'utiliser plusieurs outils de visualisation, de faire des erreurs et de reprendre même si ce n'est pas drôle tout le temps.
    - Utilisation de OpenRefine, de Flourish, de Datawrapper
    - Objectif personnel pour ce cours atteint
-- Limites
+- Limites:
  - Corpus trop volumineux (les autres sujets ne m'interessaient pas et comme les étapes de ce projet consiste à traiter les données)
  - Traitement avec Excel car fichier trop volumineux pour les outils de traitement proposés en cours
  - Demande beaucoup de patience

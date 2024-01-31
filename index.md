@@ -100,6 +100,7 @@ Pour cette visualisation, j'ai décidé d'afficher la différence de temps total
 ### Visualisation par effectif masculin ou féminin par chaîne
 >[quatrièmeVisualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Journalistes_chaine.csv)
 
+Pour avoir ce fichier, j'ai utilisé une requête wikidata pour avoir la liste des journlaistes par chaîne et leur genre. Pour ressortir l'effectif des hommes et femmes pour quelques chaînes. (TF1, RTL, ARTE, RMC, M6, France Info)
 J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques chaînes. L'objectif est de voir combien de femmes et d'hommes sontemployés et voir si le nombre a une incidence sur le temps de parole. 
 Je me suis posé la question de savoir si le temps de parole des femmes est moins que celui des hommes en fonction de l'effectif des journalistes par chaîne.
 

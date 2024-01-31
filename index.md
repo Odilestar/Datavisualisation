@@ -29,7 +29,8 @@ Les temps de parole sont estimés en heure.
 
 Les données sont recueillies en open data sur le site data.gouv
 >[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
->[Voici le fichier de départ](https://we.tl/t-K6lzQzZH5h)
+
+![Voici le fichier de départ](https://we.tl/t-K6lzQzZH5h)
 **Dans ce fichier se trouve les données de base et les traitements apportés. Chaque feuille constitue un traitement qui a permis à déduire les corpus de visualisation**
 
 J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.

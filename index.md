@@ -137,6 +137,7 @@ En conclusion, l'effectif des hommes ou des femmes n'a aucun incidence sur le te
   - Traitement avec Excel car fichier trop volumineux pour les outils de traitement proposés en cours
   - Demande beaucoup de patience
 ## 7. Bloopers
+Ceci concerne les visualisations ratées. Après les exports, je me suis rendu compte que les visuels ne me ressortaient pas d'informatons pertinentes. J'ai décidé de les garder quand même au vu du temps que j'ai passé à les rélaiser. 
 
 <div class="flourish-embed" data-src="story/2158351"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

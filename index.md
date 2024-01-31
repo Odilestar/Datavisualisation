@@ -118,6 +118,7 @@ WHERE {?journaliste wdt:P106 wd:Q1930187.
 }
 ```
 J'ai ensuite modifié les Q correspondant à chaque chaîne. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641215"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Après visualisation, on remarque l'effctif des femmes est plus élevé que celui des hommes pour certaines chaînes. Cependant, le temps de parole des hommes est plus élevé que celui des femmes.

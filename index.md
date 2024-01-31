@@ -95,13 +95,13 @@ Comme on s'attendait, le temps total des hommes est supérieur à celui des femm
 
 ## 5. Visualisation en fonction du nombre de journalistes par chaîne et par temps de parole des femmmes et des hommes
 
-### visualisation par temps de parole pour 6 chaînes
+### a. visualisation par temps de parole pour 6 chaînes
 >[troisièmeVisualisation](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/temps_six_chaines.csv) 
  Pour cette visualisation l'objectif est de comparer le temps des hommes et des femmes en fonction de l'effectif par chaîne. C'est-à-dire que l'on veut savoir si le temps de parole des hommes est supérieur à celui des femmes pour une chaîne parce que l'effectif des hommes de cette chaîne est supérieur à celui des femmes. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16640160"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Visualisation par effectif masculin ou féminin par chaîne
+### b. Visualisation par effectif masculin ou féminin par chaîne
 >[quatrièmeVisualisation.csv](https://github.com/Odilestar/M2_DEFI_Datavisualisation_2024/blob/main/Journalistes_chaine.csv)
 
 Pour avoir ce fichier, j'ai utilisé une requête wikidata pour avoir la liste des journlaistes par chaîne et leur genre. Pour ressortir l'effectif des hommes et femmes pour quelques chaînes. (TF1, RTL, ARTE, RMC, M6, France Info)

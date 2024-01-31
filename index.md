@@ -106,8 +106,9 @@ J'ai enrichi mon jeu de données avec le nombre de journalistes pour quelques ch
 Je me suis posé la question de savoir si le temps de parole des femmes est moins que celui des hommes en fonction de l'effectif des journalistes par chaîne.
 
 Voici le code wikidata utilisé
-# Liste des journalistes de la chaîne TF1
+
 ```sparql
+#Liste des journalistes de la chaîne TF1
 SELECT ?journaliste ?journalisteLabel ?genreLabel
 WHERE {?journaliste wdt:P106 wd:Q1930187.
        ?journaliste wdt:P108 wd:Q214683.
